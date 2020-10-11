@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TinderForFood</string>
+    <string name="swipable_pic">swipable_pic</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+</resources>
