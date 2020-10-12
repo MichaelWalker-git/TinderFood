@@ -1,48 +1,42 @@
 [
   {
-    "url":"https://pbs.twimg.com/profile_images/572905100960485376/GK09QnNG.jpeg",
-    "name":"Sofia",
-    "age":20,
-    "location":"New York"
-  },
-  {
-    "url":"http://cdn.cavemancircus.com//wp-content/uploads/images/2015/june/pretty_girls_3/pretty_girls_15.jpg",
+    "url":"https://www.thewholesomedish.com/wp-content/uploads/2019/06/THE-BEST-CLASSIC-TACOS-600X900.jpg",
     "name":"Roma",
     "age":22,
     "location":"California"
   },
   {
-    "url":"http://i.imgur.com/N6SaAlZ.jpg",
+    "url":"https://www.seriouseats.com/2020/07/20200706-chorizo-egg-refried-bean-breakfast-burrito-daniel-gritzer-30.jpg",
     "name":"Zoya",
     "age":23,
     "location":"Atlantic City"
   },
   {
-    "url":"http://cdn.cavemancircus.com//wp-content/uploads/images/2015/january/pretty_girls_2/pretty_girls_5.jpg",
+    "url":"https://www.seriouseats.com/2019/11/20191024-leftover-mashed-potato-egg-jars-vicky-wasik-29.jpg",
     "name":"Carol",
     "age":19,
     "location":"New City"
   },
   {
-    "url":"http://www.qqxxzx.com/images/pretty-girls-pictures/pretty-girls-pictures-17.jpg",
+    "url":"https://www.seriouseats.com/2019/09/how-to-grill-octopus.html",
     "name":"Saansa",
     "age":20,
     "location":"Manhattan"
   },
   {
-    "url":"http://www.qqxxzx.com/images/pretty-girls-pictures/pretty-girls-pictures-18.jpg",
+    "url":"https://www.seriouseats.com/2019/03/20181218-kimchi-fried-chicken-sandwich-black-sesame-biscuits-vicky-wasik-15.jpg",
     "name":"Khaleesi",
     "age":24,
     "location":"Future Westros"
   },
   {
-    "url":"http://oddpad.com/wp-content/uploads/2015/05/pretty_girls_51.jpg",
+    "url":"https://www.seriouseats.com/2019/11/20191030-filipino-pancit-palabok-vicky-wasik-32.jpg",
     "name":"Heena",
     "age":21,
     "location":"India"
   },
   {
-    "url":"http://oddpad.com/wp-content/uploads/2014/12/pretty_girls_13.jpg",
+    "url":"https://www.seriouseats.com/2019/04/20190321-xo-sauce-vicky-wasik-44.jpg",
     "name":"Jasmin",
     "age":23,
     "location":"Taxes"
@@ -100,5 +94,10 @@
     "name":"SDF",
     "age":21,
     "location":"America"
-  }
+  },  {
+  "url":"https://pbs.twimg.com/profile_images/572905100960485376/GK09QnNG.jpeg",
+  "name":"Sofia",
+  "age":20,
+  "location":"New York"
+}
 ]
