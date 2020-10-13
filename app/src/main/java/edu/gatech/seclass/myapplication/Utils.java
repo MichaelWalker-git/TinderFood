@@ -20,6 +20,11 @@ public class Utils {
 
     private static final String TAG = "Utils";
 
+    /**
+     * Parses the JSON data.
+     * @param context
+     * @return
+     */
     public static List<ProfileModel> loadProfiles(Context context){
         try{
             GsonBuilder builder = new GsonBuilder();
@@ -37,6 +42,12 @@ public class Utils {
         }
     }
 
+    /**
+     * Load hard coded data into our list of ProfileModel
+     * @param context
+     * @param jsonFileName
+     * @return
+     */
     private static String loadJSONFromAsset(Context context, String jsonFileName) {
         String json = null;
         InputStream is=null;

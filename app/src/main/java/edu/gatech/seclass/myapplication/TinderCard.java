@@ -41,6 +41,9 @@ public class TinderCard {
         mSwipeView = swipeView;
     }
 
+    /**
+     * Creates the card with the image, text and location.
+     */
     @SuppressLint("SetTextI18n")
     @Resolve
     private void onResolved(){
@@ -49,6 +52,9 @@ public class TinderCard {
         locationNameTxt.setText(mProfile.getLocation());
     }
 
+    /**
+     * Action for swiping left.
+     */
     @SwipeOut
     private void onSwipedOut(){
         Log.d("EVENT", "onSwipedOut");
@@ -60,8 +66,11 @@ public class TinderCard {
         Log.d("EVENT", "onSwipeCancelState");
     }
 
+    /**
+     * Action for swiping left.
+     */
     @SwipeIn
-    private void onSwipeIn(){
+    private void onSwipeRight(){
         Log.d("EVENT", "onSwipedIn");
     }
 
